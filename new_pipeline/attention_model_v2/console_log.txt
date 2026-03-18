@@ -1,0 +1,59 @@
+PS D:\fall_detection> & C:/Python312/python.exe d:/fall_detection/new_pipeline/attention_model_v2/training.py
+
+=========== Testing on bed ===========
+Epoch 1 | Recall: 0.8407 | AUC: 0.6941
+Epoch 2 | Recall: 0.7252 | AUC: 0.7232
+Epoch 3 | Recall: 0.7487 | AUC: 0.7353
+Epoch 4 | Recall: 0.7068 | AUC: 0.7269
+Epoch 5 | Recall: 0.8182 | AUC: 0.7212
+Epoch 6 | Recall: 0.8141 | AUC: 0.7084
+Early stopping.
+
+=========== Testing on chair ===========
+Epoch 1 | Recall: 0.7996 | AUC: 0.8473
+Epoch 2 | Recall: 0.8077 | AUC: 0.8838
+Epoch 3 | Recall: 0.8046 | AUC: 0.8955
+Epoch 4 | Recall: 0.8218 | AUC: 0.9005
+Epoch 5 | Recall: 0.8469 | AUC: 0.9023
+Epoch 6 | Recall: 0.8409 | AUC: 0.9055
+Epoch 7 | Recall: 0.8238 | AUC: 0.9146
+Epoch 8 | Recall: 0.7805 | AUC: 0.8952
+Epoch 9 | Recall: 0.8258 | AUC: 0.9253
+Epoch 10 | Recall: 0.8590 | AUC: 0.9132
+Epoch 11 | Recall: 0.8409 | AUC: 0.9085
+Epoch 12 | Recall: 0.8066 | AUC: 0.9128
+Epoch 13 | Recall: 0.8359 | AUC: 0.9116
+Epoch 14 | Recall: 0.8308 | AUC: 0.9098
+Epoch 15 | Recall: 0.8429 | AUC: 0.9154
+Early stopping.
+
+=========== Testing on stand ===========
+Epoch 1 | Recall: 0.8217 | AUC: 0.9034
+Epoch 2 | Recall: 0.8541 | AUC: 0.9260
+Epoch 3 | Recall: 0.8786 | AUC: 0.9422
+Epoch 4 | Recall: 0.8883 | AUC: 0.9490
+Epoch 5 | Recall: 0.8746 | AUC: 0.9535
+Epoch 6 | Recall: 0.8795 | AUC: 0.9471
+Epoch 7 | Recall: 0.8962 | AUC: 0.9545
+Epoch 8 | Recall: 0.9001 | AUC: 0.9556
+Epoch 9 | Recall: 0.9128 | AUC: 0.9522
+Epoch 10 | Recall: 0.8981 | AUC: 0.9613
+Epoch 11 | Recall: 0.8883 | AUC: 0.9582
+Epoch 12 | Recall: 0.8893 | AUC: 0.9549
+Epoch 13 | Recall: 0.8678 | AUC: 0.9550
+Epoch 14 | Recall: 0.9177 | AUC: 0.9600
+Epoch 15 | Recall: 0.9099 | AUC: 0.9611
+Epoch 16 | Recall: 0.8834 | AUC: 0.9571
+Epoch 17 | Recall: 0.8609 | AUC: 0.9498
+Epoch 18 | Recall: 0.9207 | AUC: 0.9640
+Epoch 19 | Recall: 0.8834 | AUC: 0.9616
+Epoch 20 | Recall: 0.8844 | AUC: 0.9490
+Epoch 21 | Recall: 0.8854 | AUC: 0.9606
+Epoch 22 | Recall: 0.8541 | AUC: 0.9543
+Epoch 23 | Recall: 0.8874 | AUC: 0.9614
+Early stopping.
+
+=========== FINAL RESULTS ===========
+Recall Mean ± Std: 0.8734442778825717 ± 0.03422168714612832
+AUC Mean ± Std: 0.8616913238224555 ± 0.11002649325729866
+=====================================

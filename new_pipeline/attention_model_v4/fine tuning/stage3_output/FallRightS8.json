@@ -1,0 +1,825 @@
+{
+  "video_name": "FallRightS8",
+  "video_id": "fall/unknown/unknown/FallRightS8",
+  "label": 1,
+  "label_str": "fall",
+  "active_window": [
+    2,
+    7
+  ],
+  "varying_k": 6,
+  "detection_status": "Global Event Zone",
+  "saliency_weights": [
+    0.023579333614203415,
+    0.04622162884439862,
+    0.08120523137115196,
+    0.11544271201372325,
+    0.13463014105741813,
+    0.1304916279176735,
+    0.11067566465398529,
+    0.08878992383691627,
+    0.07146693244053734,
+    0.05956184031857848,
+    0.05256775107098882,
+    0.0500261988446237,
+    0.051453628054412684,
+    0.05606345701760726,
+    0.06243979030788885,
+    0.06879870127246894,
+    0.07375844338709783,
+    0.07651358047050486,
+    0.07667744922287215,
+    0.07423380767507196,
+    0.06965071093136815,
+    0.06388174709080269,
+    0.0580089724419019,
+    0.052998381425587285,
+    0.049417904596661066,
+    0.04729074818359088,
+    0.04626301269024036,
+    0.04550263323906748,
+    0.04321975226759595,
+    0.03673498819835071,
+    0.02597237095807855,
+    0.016973893039621338
+  ],
+  "clip_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "frame_data": [
+    {
+      "frame_idx": 2,
+      "keypoints": [
+        [
+          0.682127833366394,
+          0.20094715058803558
+        ],
+        [
+          0.6905072331428528,
+          0.19097131490707397
+        ],
+        [
+          0.6801318526268005,
+          0.18937164545059204
+        ],
+        [
+          0.713242769241333,
+          0.19296221435070038
+        ],
+        [
+          0.6825569868087769,
+          0.18801099061965942
+        ],
+        [
+          0.7359504103660583,
+          0.25149717926979065
+        ],
+        [
+          0.6722460985183716,
+          0.24778559803962708
+        ],
+        [
+          0.7474648356437683,
+          0.3459276556968689
+        ],
+        [
+          0.653624415397644,
+          0.3385366201400757
+        ],
+        [
+          0.7450923323631287,
+          0.4294859766960144
+        ],
+        [
+          0.6376925706863403,
+          0.42111486196517944
+        ],
+        [
+          0.7192314863204956,
+          0.3964388072490692
+        ],
+        [
+          0.6776127815246582,
+          0.3934244215488434
+        ],
+        [
+          0.7096797227859497,
+          0.49683859944343567
+        ],
+        [
+          0.6736359000205994,
+          0.5003414750099182
+        ],
+        [
+          0.7040820717811584,
+          0.5751421451568604
+        ],
+        [
+          0.6564009785652161,
+          0.5865786671638489
+        ]
+      ],
+      "normalized_bbox": [
+        0.6970066494411893,
+        0.37301543553670247,
+        0.13951589796278213,
+        0.5414592107137044
+      ],
+      "score": 0.931196,
+      "features": {
+        "tilt_angle": 2.237263,
+        "vertical_velocity": 0.0,
+        "h_w_ratio": 3.880986,
+        "ground_proximity": 0.750359,
+        "torso_depth": 0.237867
+      }
+    },
+    {
+      "frame_idx": 3,
+      "keypoints": [
+        [
+          0.6831753849983215,
+          0.19552013278007507
+        ],
+        [
+          0.6905733942985535,
+          0.1867390275001526
+        ],
+        [
+          0.6852465867996216,
+          0.18478378653526306
+        ],
+        [
+          0.7183374762535095,
+          0.19561105966567993
+        ],
+        [
+          0.6986070275306702,
+          0.18782033026218414
+        ],
+        [
+          0.7462537288665771,
+          0.26832887530326843
+        ],
+        [
+          0.6927849054336548,
+          0.24406184256076813
+        ],
+        [
+          0.7561964988708496,
+          0.3703838586807251
+        ],
+        [
+          0.6797078847885132,
+          0.30061453580856323
+        ],
+        [
+          0.7455369830131531,
+          0.4621225595474243
+        ],
+        [
+          0.6618375778198242,
+          0.35271885991096497
+        ],
+        [
+          0.7214353084564209,
+          0.4057977497577667
+        ],
+        [
+          0.6863909363746643,
+          0.3910984396934509
+        ],
+        [
+          0.7130900621414185,
+          0.5010769963264465
+        ],
+        [
+          0.6754799485206604,
+          0.4887469708919525
+        ],
+        [
+          0.7037957310676575,
+          0.586262047290802
+        ],
+        [
+          0.6638395190238953,
+          0.5779466032981873
+        ]
+      ],
+      "normalized_bbox": [
+        0.6985128614637587,
+        0.36766252517700193,
+        0.14107398986816405,
+        0.5306652704874675
+      ],
+      "score": 0.914949,
+      "features": {
+        "tilt_angle": 6.26074,
+        "vertical_velocity": 0.003516,
+        "h_w_ratio": 3.76161,
+        "ground_proximity": 0.743805,
+        "torso_depth": 0.126175
+      }
+    },
+    {
+      "frame_idx": 4,
+      "keypoints": [
+        [
+          0.6644384264945984,
+          0.1964658945798874
+        ],
+        [
+          0.6714954972267151,
+          0.18619415163993835
+        ],
+        [
+          0.6663013100624084,
+          0.18431201577186584
+        ],
+        [
+          0.697877824306488,
+          0.1901414543390274
+        ],
+        [
+          0.6806225180625916,
+          0.18207012116909027
+        ],
+        [
+          0.7242447137832642,
+          0.26109281182289124
+        ],
+        [
+          0.6822640299797058,
+          0.23776869475841522
+        ],
+        [
+          0.7371026873588562,
+          0.35906580090522766
+        ],
+        [
+          0.6801917552947998,
+          0.2986264228820801
+        ],
+        [
+          0.7184382081031799,
+          0.4444279968738556
+        ],
+        [
+          0.6672230958938599,
+          0.33652263879776
+        ],
+        [
+          0.7103549242019653,
+          0.4046442210674286
+        ],
+        [
+          0.6798648834228516,
+          0.38925209641456604
+        ],
+        [
+          0.7068618535995483,
+          0.5006663799285889
+        ],
+        [
+          0.6555991172790527,
+          0.47466209530830383
+        ],
+        [
+          0.7055846452713013,
+          0.5876445770263672
+        ],
+        [
+          0.6373698115348816,
+          0.5538234710693359
+        ]
+      ],
+      "normalized_bbox": [
+        0.6817671881781684,
+        0.3655606587727865,
+        0.1647957271999783,
+        0.5334702809651692
+      ],
+      "score": 0.91412,
+      "features": {
+        "tilt_angle": 3.160104,
+        "vertical_velocity": -0.0015,
+        "h_w_ratio": 3.237161,
+        "ground_proximity": 0.750569,
+        "torso_depth": 0.131533
+      }
+    },
+    {
+      "frame_idx": 5,
+      "keypoints": [
+        [
+          0.6105578541755676,
+          0.20495939254760742
+        ],
+        [
+          0.6153945922851562,
+          0.1935798078775406
+        ],
+        [
+          0.6095664501190186,
+          0.19438579678535461
+        ],
+        [
+          0.6361995935440063,
+          0.19469037652015686
+        ],
+        [
+          0.6196500062942505,
+          0.19463872909545898
+        ],
+        [
+          0.6674556732177734,
+          0.26485875248908997
+        ],
+        [
+          0.6267552971839905,
+          0.2547392249107361
+        ],
+        [
+          0.6858704686164856,
+          0.3636539876461029
+        ],
+        [
+          0.6290332674980164,
+          0.32915589213371277
+        ],
+        [
+          0.676720917224884,
+          0.4516547918319702
+        ],
+        [
+          0.6167338490486145,
+          0.39241042733192444
+        ],
+        [
+          0.6730926036834717,
+          0.40305882692337036
+        ],
+        [
+          0.6430248618125916,
+          0.39708736538887024
+        ],
+        [
+          0.6784181594848633,
+          0.5022417306900024
+        ],
+        [
+          0.6223371028900146,
+          0.486186146736145
+        ],
+        [
+          0.7026654481887817,
+          0.580468475818634
+        ],
+        [
+          0.6262071132659912,
+          0.5622018575668335
+        ]
+      ],
+      "normalized_bbox": [
+        0.6531819237603081,
+        0.37399495442708336,
+        0.12068896823459202,
+        0.5145323753356934
+      ],
+      "score": 0.911728,
+      "features": {
+        "tilt_angle": 4.464858,
+        "vertical_velocity": 0.003125,
+        "h_w_ratio": 4.263293,
+        "ground_proximity": 0.740201,
+        "torso_depth": 0.1215
+      }
+    },
+    {
+      "frame_idx": 6,
+      "keypoints": [
+        [
+          0.5408505797386169,
+          0.36666837334632874
+        ],
+        [
+          0.5418242812156677,
+          0.35865145921707153
+        ],
+        [
+          0.544671356678009,
+          0.35769903659820557
+        ],
+        [
+          0.5582481622695923,
+          0.35342034697532654
+        ],
+        [
+          0.5640550255775452,
+          0.3479386270046234
+        ],
+        [
+          0.6016689538955688,
+          0.39108556509017944
+        ],
+        [
+          0.5762372016906738,
+          0.3709985911846161
+        ],
+        [
+          0.6097895503044128,
+          0.4782780706882477
+        ],
+        [
+          0.5666108131408691,
+          0.4322916865348816
+        ],
+        [
+          0.5961838364601135,
+          0.5454517006874084
+        ],
+        [
+          0.5436201095581055,
+          0.49806973338127136
+        ],
+        [
+          0.6487515568733215,
+          0.46192657947540283
+        ],
+        [
+          0.6294416189193726,
+          0.4487069547176361
+        ],
+        [
+          0.6320738196372986,
+          0.5511089563369751
+        ],
+        [
+          0.5897706151008606,
+          0.5144378542900085
+        ],
+        [
+          0.671274721622467,
+          0.5862302184104919
+        ],
+        [
+          0.6231018304824829,
+          0.5335766673088074
+        ]
+      ],
+      "normalized_bbox": [
+        0.6086177825927734,
+        0.4507112185160319,
+        0.15835647583007811,
+        0.35723997751871744
+      ],
+      "score": 0.913849,
+      "features": {
+        "tilt_angle": 34.02364,
+        "vertical_velocity": 0.055244,
+        "h_w_ratio": 2.255923,
+        "ground_proximity": 0.618958,
+        "torso_depth": 0.086573
+      }
+    },
+    {
+      "frame_idx": 7,
+      "keypoints": [
+        [
+          0.5242325663566589,
+          0.4874500334262848
+        ],
+        [
+          0.5249269008636475,
+          0.4803811013698578
+        ],
+        [
+          0.5217466950416565,
+          0.48229774832725525
+        ],
+        [
+          0.5356968641281128,
+          0.4683668911457062
+        ],
+        [
+          0.5259584784507751,
+          0.47043928503990173
+        ],
+        [
+          0.5676272511482239,
+          0.4844418168067932
+        ],
+        [
+          0.5418056845664978,
+          0.4614645838737488
+        ],
+        [
+          0.5762813687324524,
+          0.5572911500930786
+        ],
+        [
+          0.545845091342926,
+          0.47527197003364563
+        ],
+        [
+          0.5563564300537109,
+          0.6080756783485413
+        ],
+        [
+          0.53452068567276,
+          0.5124430656433105
+        ],
+        [
+          0.6131356358528137,
+          0.5160167217254639
+        ],
+        [
+          0.5909659266471863,
+          0.5066826343536377
+        ],
+        [
+          0.599544107913971,
+          0.5896609425544739
+        ],
+        [
+          0.5566576719284058,
+          0.5738652348518372
+        ],
+        [
+          0.656867504119873,
+          0.5868687033653259
+        ],
+        [
+          0.5796735286712646,
+          0.5692406892776489
+        ]
+      ],
+      "normalized_bbox": [
+        0.587217034233941,
+        0.5277359008789062,
+        0.17002906799316406,
+        0.21292975743611653
+      ],
+      "score": 0.870025,
+      "features": {
+        "tilt_angle": 50.951851,
+        "vertical_velocity": 0.056033,
+        "h_w_ratio": 1.252314,
+        "ground_proximity": 0.527047,
+        "torso_depth": 0.074476
+      }
+    }
+  ],
+  "stage2_summary": {
+    "tilt_max": 50.951851,
+    "tilt_min": 2.237263,
+    "tilt_mean": 16.849743,
+    "tilt_std": 18.816392,
+    "tilt_median": 5.362799,
+    "tilt_range": 48.714588,
+    "tilt_sum": 101.098456,
+    "tilt_delta": 48.714588,
+    "tilt_abs_delta": 48.714588,
+    "tilt_norm_delta": 1.0,
+    "tilt_linear_slope": 9.376183,
+    "tilt_peak_pos": 1.0,
+    "tilt_trough_pos": 0.0,
+    "tilt_time_to_peak": 1.0,
+    "tilt_peak_trough_gap": 1.0,
+    "tilt_pre_peak_slope": 9.742918,
+    "tilt_post_peak_slope": 0.0,
+    "tilt_slope_ratio": 9742917600.0,
+    "tilt_curvature": 3.485024,
+    "tilt_first_half_mean": 3.886036,
+    "tilt_second_half_mean": 29.81345,
+    "tilt_first_half_std": 1.720915,
+    "tilt_second_half_std": 19.210317,
+    "tilt_half_mean_diff": 25.927414,
+    "tilt_half_mean_ratio": 7.671944,
+    "tilt_first_third_mean": 4.249002,
+    "tilt_mid_third_mean": 3.812481,
+    "tilt_last_third_mean": 42.487746,
+    "tilt_energy": 3827.822625,
+    "tilt_skewness": 0.899417,
+    "tilt_kurtosis": -0.930873,
+    "tilt_iqr": 23.596622,
+    "tilt_mean_crossings": 1.0,
+    "tilt_zero_crossings": 0.0,
+    "tilt_above_mean_ratio": 0.333333,
+    "tilt_mean_abs_diff": 10.983172,
+    "tilt_max_diff": 29.558782,
+    "tilt_total_variation": 54.91586,
+    "tilt_rms_diff": 15.412921,
+    "tilt_weighted_mean": 15.428859,
+    "tilt_weighted_std": 17.825062,
+    "tilt_weighted_peak_val": 4.464858,
+    "tilt_weighted_sum": 15.428859,
+    "h_w_ratio_max": 4.263293,
+    "h_w_ratio_min": 1.252314,
+    "h_w_ratio_mean": 3.108548,
+    "h_w_ratio_std": 1.044486,
+    "h_w_ratio_median": 3.499385,
+    "h_w_ratio_range": 3.010979,
+    "h_w_ratio_sum": 18.651287,
+    "h_w_ratio_delta": -2.628672,
+    "h_w_ratio_abs_delta": 2.628672,
+    "h_w_ratio_norm_delta": -0.873029,
+    "h_w_ratio_linear_slope": -0.475265,
+    "h_w_ratio_peak_pos": 0.6,
+    "h_w_ratio_trough_pos": 1.0,
+    "h_w_ratio_time_to_peak": 0.6,
+    "h_w_ratio_peak_trough_gap": 0.4,
+    "h_w_ratio_pre_peak_slope": 0.127436,
+    "h_w_ratio_post_peak_slope": -1.505489,
+    "h_w_ratio_slope_ratio": -0.084647,
+    "h_w_ratio_curvature": -0.184872,
+    "h_w_ratio_first_half_mean": 3.626586,
+    "h_w_ratio_second_half_mean": 2.59051,
+    "h_w_ratio_first_half_std": 0.279644,
+    "h_w_ratio_second_half_std": 1.251788,
+    "h_w_ratio_half_mean_diff": -1.036076,
+    "h_w_ratio_half_mean_ratio": 0.714311,
+    "h_w_ratio_first_third_mean": 3.821298,
+    "h_w_ratio_mid_third_mean": 3.750227,
+    "h_w_ratio_last_third_mean": 1.754119,
+    "h_w_ratio_energy": 64.52412,
+    "h_w_ratio_skewness": -0.692473,
+    "h_w_ratio_kurtosis": -0.939109,
+    "h_w_ratio_iqr": 1.34991,
+    "h_w_ratio_mean_crossings": 1.0,
+    "h_w_ratio_zero_crossings": 0.0,
+    "h_w_ratio_above_mean_ratio": 0.666667,
+    "h_w_ratio_mean_abs_diff": 0.936187,
+    "h_w_ratio_max_diff": 2.00737,
+    "h_w_ratio_total_variation": 4.680936,
+    "h_w_ratio_rms_diff": 1.129514,
+    "h_w_ratio_weighted_mean": 3.179532,
+    "h_w_ratio_weighted_std": 0.996775,
+    "h_w_ratio_weighted_peak_val": 4.263293,
+    "h_w_ratio_weighted_sum": 3.179532,
+    "velocity_max": 0.056033,
+    "velocity_min": -0.0015,
+    "velocity_mean": 0.019403,
+    "velocity_std": 0.025681,
+    "velocity_median": 0.003321,
+    "velocity_range": 0.057533,
+    "velocity_sum": 0.116418,
+    "velocity_delta": 0.056033,
+    "velocity_abs_delta": 0.056033,
+    "velocity_norm_delta": 0.973928,
+    "velocity_linear_slope": 0.012571,
+    "velocity_peak_pos": 1.0,
+    "velocity_trough_pos": 0.4,
+    "velocity_time_to_peak": 1.0,
+    "velocity_peak_trough_gap": 0.6,
+    "velocity_pre_peak_slope": 0.011207,
+    "velocity_post_peak_slope": 0.0,
+    "velocity_slope_ratio": 11206600.0,
+    "velocity_curvature": 0.003838,
+    "velocity_first_half_mean": 0.000672,
+    "velocity_second_half_mean": 0.038134,
+    "velocity_first_half_std": 0.002102,
+    "velocity_second_half_std": 0.024757,
+    "velocity_half_mean_diff": 0.037462,
+    "velocity_half_mean_ratio": 56.746939,
+    "velocity_first_third_mean": 0.001758,
+    "velocity_mid_third_mean": 0.000813,
+    "velocity_last_third_mean": 0.055639,
+    "velocity_energy": 0.006216,
+    "velocity_skewness": 0.693031,
+    "velocity_kurtosis": -1.499111,
+    "velocity_iqr": 0.041531,
+    "velocity_mean_crossings": 1.0,
+    "velocity_zero_crossings": 3.0,
+    "velocity_above_mean_ratio": 0.333333,
+    "velocity_mean_abs_diff": 0.013213,
+    "velocity_max_diff": 0.052119,
+    "velocity_total_variation": 0.066065,
+    "velocity_rms_diff": 0.023562,
+    "velocity_weighted_mean": 0.017696,
+    "velocity_weighted_std": 0.024976,
+    "velocity_weighted_peak_val": 0.003125,
+    "velocity_weighted_sum": 0.017696,
+    "ground_proximity_max": 0.750569,
+    "ground_proximity_min": 0.527047,
+    "ground_proximity_mean": 0.68849,
+    "ground_proximity_std": 0.08594,
+    "ground_proximity_median": 0.742003,
+    "ground_proximity_range": 0.223522,
+    "ground_proximity_sum": 4.130939,
+    "ground_proximity_delta": -0.223312,
+    "ground_proximity_abs_delta": 0.223312,
+    "ground_proximity_norm_delta": -0.99906,
+    "ground_proximity_linear_slope": -0.042899,
+    "ground_proximity_peak_pos": 0.4,
+    "ground_proximity_trough_pos": 1.0,
+    "ground_proximity_time_to_peak": 0.4,
+    "ground_proximity_peak_trough_gap": 0.6,
+    "ground_proximity_pre_peak_slope": 0.000105,
+    "ground_proximity_post_peak_slope": -0.074507,
+    "ground_proximity_slope_ratio": -0.001409,
+    "ground_proximity_curvature": -0.016765,
+    "ground_proximity_first_half_mean": 0.748244,
+    "ground_proximity_second_half_mean": 0.628735,
+    "ground_proximity_first_half_std": 0.00314,
+    "ground_proximity_second_half_std": 0.087294,
+    "ground_proximity_half_mean_diff": -0.119509,
+    "ground_proximity_half_mean_ratio": 0.840281,
+    "ground_proximity_first_third_mean": 0.747082,
+    "ground_proximity_mid_third_mean": 0.745385,
+    "ground_proximity_last_third_mean": 0.573003,
+    "ground_proximity_energy": 2.888423,
+    "ground_proximity_skewness": -0.98741,
+    "ground_proximity_kurtosis": -0.712368,
+    "ground_proximity_iqr": 0.099452,
+    "ground_proximity_mean_crossings": 1.0,
+    "ground_proximity_zero_crossings": 0.0,
+    "ground_proximity_above_mean_ratio": 0.666667,
+    "ground_proximity_mean_abs_diff": 0.047368,
+    "ground_proximity_max_diff": 0.121243,
+    "ground_proximity_total_variation": 0.23684,
+    "ground_proximity_rms_diff": 0.068328,
+    "ground_proximity_weighted_mean": 0.695273,
+    "ground_proximity_weighted_std": 0.081115,
+    "ground_proximity_weighted_peak_val": 0.740201,
+    "ground_proximity_weighted_sum": 0.695273
+  },
+  "stage3_summary": {
+    "depth_max": 0.237867,
+    "depth_min": 0.074476,
+    "depth_mean": 0.129687,
+    "depth_std": 0.052746,
+    "depth_median": 0.123838,
+    "depth_range": 0.163391,
+    "depth_sum": 0.778124,
+    "depth_delta": -0.163391,
+    "depth_abs_delta": 0.163391,
+    "depth_norm_delta": -1.0,
+    "depth_linear_slope": -0.027023,
+    "depth_peak_pos": 0.0,
+    "depth_trough_pos": 1.0,
+    "depth_time_to_peak": 0.0,
+    "depth_peak_trough_gap": 1.0,
+    "depth_pre_peak_slope": 0.0,
+    "depth_post_peak_slope": -0.032678,
+    "depth_slope_ratio": -0.0,
+    "depth_curvature": 0.006015,
+    "depth_first_half_mean": 0.165192,
+    "depth_second_half_mean": 0.094183,
+    "depth_first_half_std": 0.051436,
+    "depth_second_half_std": 0.019937,
+    "depth_half_mean_diff": -0.071009,
+    "depth_half_mean_ratio": 0.570142,
+    "depth_first_third_mean": 0.182021,
+    "depth_mid_third_mean": 0.126516,
+    "depth_last_third_mean": 0.080524,
+    "depth_energy": 0.117606,
+    "depth_skewness": 1.155037,
+    "depth_kurtosis": 0.223603,
+    "depth_iqr": 0.034889,
+    "depth_mean_crossings": 3.0,
+    "depth_zero_crossings": 0.0,
+    "depth_above_mean_ratio": 0.333333,
+    "depth_mean_abs_diff": 0.034821,
+    "depth_max_diff": 0.111692,
+    "depth_total_variation": 0.174106,
+    "depth_rms_diff": 0.05286,
+    "depth_weighted_mean": 0.126489,
+    "depth_weighted_std": 0.046514,
+    "depth_weighted_peak_val": 0.1215,
+    "depth_weighted_sum": 0.126489,
+    "depth_drop": 0.066254,
+    "depth_variance": 0.002782
+  }
+}

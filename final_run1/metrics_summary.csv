@@ -1,0 +1,18 @@
+Metric,Value
+Accuracy,0.7286
+Balanced Accuracy,0.725
+Precision (PPV),0.6774
+Recall (Sensitivity/TPR),0.7
+Specificity (TNR),0.75
+F1-Score,0.6885
+Matthews Corr Coeff (MCC),0.4483
+Cohen's Kappa,0.4481
+AUC-ROC,0.8083
+AUC-PR (Avg Precision),0.7192
+True Positives (TP),21.0
+True Negatives (TN),30.0
+False Positives (FP),10.0
+False Negatives (FN),9.0
+Negative Predictive Value,0.7692
+False Positive Rate (FPR),0.25
+False Negative Rate (FNR),0.3

@@ -1,0 +1,35 @@
+Selected POSE features:
+tilt_std  |  AUC = 0.8377
+ground_proximity_range  |  AUC = 0.8225
+tilt_total_variation  |  AUC = 0.8215
+ground_proximity_iqr  |  AUC = 0.8189
+tilt_abs_delta  |  AUC = 0.8184
+ground_proximity_abs_delta  |  AUC = 0.8165
+tilt_second_half_std  |  AUC = 0.8165
+ground_proximity_total_variation  |  AUC = 0.8077
+ground_proximity_second_half_std  |  AUC = 0.7988
+tilt_first_half_std  |  AUC = 0.7939
+
+Selected DEPTH features:
+depth_variance  |  AUC = 0.7302
+depth_iqr  |  AUC = 0.7221
+depth_mean_abs_diff  |  AUC = 0.7191
+depth_second_half_std  |  AUC = 0.7156
+depth_abs_delta  |  AUC = 0.6950
+depth_total_variation  |  AUC = 0.6926
+depth_first_half_std  |  AUC = 0.6728
+depth_pre_peak_slope  |  AUC = 0.6693
+depth_iqr  |  AUC = 0.7221
+depth_mean_abs_diff  |  AUC = 0.7191
+depth_second_half_std  |  AUC = 0.7156
+depth_abs_delta  |  AUC = 0.6950
+depth_total_variation  |  AUC = 0.6926
+depth_first_half_std  |  AUC = 0.6728
+depth_pre_peak_slope  |  AUC = 0.6693
+depth_peak_pos  |  AUC = 0.5749
+depth_half_mean_diff  |  AUC = 0.5649
+
+Saved selected features → selected_features.csv
+════════════════════════════════════
+✅ FEATURE SELECTION COMPLETE
+════════════════════════════════════

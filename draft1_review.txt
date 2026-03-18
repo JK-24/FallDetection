@@ -1,0 +1,61 @@
+Result section :
+	should be improvised
+	- add the ablation study experiment (explicitly mention how the pipeline works cumulatively, and for each case mention the metrics)//////////
+	- add the 12 features we are using in the result section
+	
+
+
+The comparison table the is already there ,needs to be modified, sir will share a template for it. in that table comparison of our method with existing method is not mentioned. (Screenshot taken).
+Runtime complexity should be included in the result (runtime performance ta le screenshot taken).
+
+Abstract must be rewritten - sir will work on it
+
+In introduction, contributions must be mentioned explicitly (why those contributions, the origin for the need for that and how it helped in the big picture). use 10-15 paper(most recent) in it, and then mention their contributions, then mention about the stages and finally the paper structure, like these many sections and so and so, include the novelty part too.
+
+Citations is not completely mentioned in the whole paper.
+
+Related work is not sufficient.
+
+position of table 6 must be in the literature review section not at last.
+
+The whole paper consists of 9 chapters, which is not required, only 4-5 is enough
+
+Include the block diagram (right now architecture can be used as block diagram) ' architecture diagram for each stages (should visualise the conv layers and stuff)' should be included.
+
+Datasets must not be a separate chapter, it should be included in result and discussion section.
+
+In the methodology section, Algorithms shall be included, ie the pseudocode.
+
+
+
+
+
+The chapter structure for the paper , confirm with sir once at last.
+
+current 4,5,6,7 club into chap 3 "Proposed methodology"
+
+{1 - block diagram
+4 - architecture diagram
+1 - pseudocode
+all equations must be numbered } put it in chapter 3
+
+current chapter 9 into chapter 4 "Result and Discussion"
+	-begin with dataset current chap 3
+	-hardware specifications 
+	-evaluation metrics used in different stages
+	-computation complexity
+	-stage wise results(quantitative (existing)) with visualisation (qualitative).
+	-abalation study experiment table
+	-comparision with exsiting work table
+	-runtime performance table
+
+chapter 1 is introduction
+chapter 2 is related work
+chapter 5 is conclusion
+
+
+
+
+sir will share two papers, refer that for structure.
+restrict to 15-17 pages
+	
